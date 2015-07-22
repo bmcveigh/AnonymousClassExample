@@ -1,7 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * This class shows an example of an anonymous class called Dog. Anonymous
+ * classes must use interfaces.
+ *
+ * @author Brian McVeigh
  */
 package anonymousclassexample;
 
